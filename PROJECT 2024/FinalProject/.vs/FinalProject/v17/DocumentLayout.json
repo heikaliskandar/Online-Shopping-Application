@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|c:\\users\\yana\\desktop\\webapp\\project 2024\\finalproject\\finalproject\\ecomart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ecomart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\ecomart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ecomart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\ecomart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ecomart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\usercontrols\\loginstatus.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usercontrols\\loginstatus.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\usercontrols\\loginstatus.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usercontrols\\loginstatus.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\usercontrols\\loginstatus.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\usercontrols\\loginstatus.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_YANA_DESKTOP_WEBAPP_PROJECT_2024_FINALPROJECT_FINALPROJECT_APP_DATA_ECOBASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\finalproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E0EAC23C-35AF-4F5E-A8F3-29BB798A040B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginStatus.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UserControls\\LoginStatus.ascx.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx.cs",
+              "RelativeToolTip": "FinalProject\\UserControls\\LoginStatus.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:38:10.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginStatus.ascx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx.designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UserControls\\LoginStatus.ascx.designer.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx.designer.cs",
+              "RelativeToolTip": "FinalProject\\UserControls\\LoginStatus.ascx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:16:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Admin.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Admin.aspx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Admin.aspx",
+              "RelativeToolTip": "FinalProject\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:02:30.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcoMart.aspx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\EcoMart.aspx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx",
+              "RelativeToolTip": "FinalProject\\EcoMart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:05:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EcoMart.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx.designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\EcoMart.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx.designer.cs",
+              "RelativeToolTip": "FinalProject\\EcoMart.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:47:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcoMart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProject\\EcoMart.aspx.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\EcoMart.aspx.cs",
+              "RelativeToolTip": "FinalProject\\EcoMart.aspx.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:27:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Admin.aspx.cs",
+              "RelativeToolTip": "FinalProject\\Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:07:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginStatus.ascx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx",
+              "RelativeDocumentMoniker": "FinalProject\\UserControls\\LoginStatus.ascx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\UserControls\\LoginStatus.ascx",
+              "RelativeToolTip": "FinalProject\\UserControls\\LoginStatus.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T23:37:34.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx",
+              "RelativeToolTip": "FinalProject\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:31:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx.designer.cs",
+              "RelativeToolTip": "FinalProject\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:37:40.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx.cs",
+              "RelativeToolTip": "FinalProject\\Login.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:11:15.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Login.aspx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Login.aspx",
+              "RelativeToolTip": "FinalProject\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:31:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx.designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SignUp.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx.designer.cs",
+              "RelativeToolTip": "FinalProject\\SignUp.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:48:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\SignUp.aspx.cs",
+              "RelativeToolTip": "FinalProject\\SignUp.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:13:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Default.aspx",
+              "RelativeDocumentMoniker": "FinalProject\\Default.aspx",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Default.aspx",
+              "RelativeToolTip": "FinalProject\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:06:11.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Global.asax.cs",
+              "RelativeToolTip": "FinalProject\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:45:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_YANA_DESKTOP_WEBAPP_PROJECT_2024_FINALPROJECT_FINALPROJECT_APP_DATA_ECOBASE.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-09T00:18:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Web.config",
+              "RelativeDocumentMoniker": "FinalProject\\Web.config",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Web.config",
+              "RelativeToolTip": "FinalProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T22:10:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Site.Master",
+              "RelativeDocumentMoniker": "FinalProject\\Site.Master",
+              "ToolTip": "C:\\Users\\yana\\Desktop\\WebApp\\PROJECT 2024\\FinalProject\\FinalProject\\Site.Master",
+              "RelativeToolTip": "FinalProject\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T22:02:33.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
